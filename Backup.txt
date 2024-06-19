@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Event</title>
+        <link rel="icon" href="img/mic.jpg">
+        </head>
+<body bgcolor="Black" style="color:white;">
+    <center>
+    <h1>🎶PRINCE MUSIC WORLD🎶</h1>
+    <p>ISAI MAZHAIYIL NANAYA THAYARA🎤</p>
+</center>
+<hr>
+<p>🎶 Spread the Joy of Music with Our Online Ticket Store! 🎶<br>
+    Concerts have always been beloved events, and now, you can make the experience even better for your fans. Introducing our exclusive online ticket platform, where music enthusiasts can secure their seats hassle-free! 🎟️</p><br>
+    <h2>How to Get Started:</h2>
+    <ol>
+        <li>Communicate with the Venue: If you’re affiliated with a local venue, work out the details with them. Determine ticket availability, pricing, and sale dates.</li>
+        <li>Become a Ticket Broker: For larger-scale events, consider becoming a ticket broker. This path involves qualifications and adherence to regulations, but it opens doors to selling tickets for major concerts.</li>
+    </ol>
+    <p>Ready to rock the ticketing world? 🤘 Visit our website now and let the music flow! 🎵</p>
+    <center>
+        <h1>🌟🌟HURRY🌟🌟</h1>
+        <img src="img/Yuva.png" width="350px">
+        <h3>ROCKING NIGHT</h3>
+    <h4>Free Entry | Free Food | Limited Seats Only!!</h4>
+    <p>Feel free to customize this paragraph to match your website’s unique features and vibe. Best of luck with your music concert! 🎤🎸🎉</p>
+</center>
+<hr>
+<center>
+<h1><img src="img/Insta.png" width="30px">LIVE ON INSTAGRAM</h1>
+<img src="img/Yuva2.png" width="350px">
+<h2>
+    <a href="https://www.instagram.com/paadi.paapom/">👉Click Here👈</a>
+</h2>
+<h4>🌟VIBE |🎉FUN |🔥ROCK</h4>
+<p>Ladies and gentlemen, whether you’ve secured a ticket or not, I invite you to join me for an electrifying concert experience! 🎵🎤✨<br>
+
+    Live on Instagram, the stage will come alive with pulsating rhythms, soulful melodies, and an atmosphere that transcends boundaries. From the front row to the comfort of your own home, you’ll be part of something magical. 🌟🎶<br>
+    
+    So grab your virtual seat, turn up the volume, and let the music sweep you away. 🎉📲🎶 Whether you’re dancing in the crowd or swaying in your pajamas, this concert is for you. Let’s create memories together! 🙌🎊<br>
+    
+    Remember, it’s not about the ticket; it’s about the shared experience. So mark your calendars, set your alarms, and get ready to groove. 🕺💃<br>
+    
+    See you on Instagram Live! 📸🎵🔥</p>
+    <hr>
+</center>
+<center>
+<h1>Contact</h1>
+<h2>+91 9815515131 | paadi.paapom@gmail.com</h2>
+<p>Airport, Morai city, Trichy 620010</p>
+</center>    
+</body>
+</html>
